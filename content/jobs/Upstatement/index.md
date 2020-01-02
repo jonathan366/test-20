@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
 title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
+company: 'Postman'
+location: 'Bangalore'
 range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+url: 'https://www.getpostman.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
