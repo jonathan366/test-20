@@ -1,38 +1,38 @@
 module.exports = {
   siteTitle: 'Jonathan Pereira | Developer Community Evangelist',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Jonathan Pereira is a developer evangelist',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Jonathan Pereira, GoanIdle, Jonathan Google, Jonathan Goa, Jonathan Postman',
   siteUrl: 'https://jonathanpereira.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-143014926-2',
+  //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Jonathan Pereira',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  location: 'Bengaluru',
+  email: 'hello@jonathanpereira.dev',
+  github: 'https://github.com/jonathan366',
+  twitterHandle: '@GoanIdle',
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/jonathanp1',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Facebook',
+      url: 'https://www.fb.me/jonathanpereira',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/jonathan366',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/GoanIdle',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/GoanIdle',
     },
   ],
 
