@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
+date: '2015-04-01'
+title: 'Technical Lead Developer'
+company: 'Athena Infotech'
 location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+range: 'April 2015 - June 2017'
+url: '#'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Android Developer
+- Fullstack Developer
