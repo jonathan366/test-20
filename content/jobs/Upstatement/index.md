@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
+date: '2019-04-01'
+title: 'Developer Relations'
 company: 'Postman'
 location: 'Bangalore'
-range: 'May 2018 - Present'
+range: 'April 2019 - October 2019'
 url: 'https://www.getpostman.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Manage the 8,000,000+ Postman community
+- Create developer content, tutorials, documentation
+- Host meetups, webinars, hackathons
