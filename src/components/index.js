@@ -12,7 +12,7 @@ import Footer from './footer';
 import Hero from './sections/hero';
 import About from './sections/about';
 import Jobs from './sections/jobs';
-import Featured from './sections/featured';
+//import Featured from './sections/featured';
 import Projects from './sections/projects';
 import Contact from './sections/contact';
 
@@ -28,7 +28,7 @@ export {
   Hero,
   About,
   Jobs,
-  //Featured,
+  Featured,
   Projects,
   Contact,
   Footer,
