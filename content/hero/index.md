@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Jonathan Pereira'
-subtitle: 'I build things for the web.'
+subtitle: 'I build and grow developer communities.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Bengaluru, India specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a developer relations program manager based in Bengaluru, India specializing in creating developer expereinces that make developers keep coming back.
