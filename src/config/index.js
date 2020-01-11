@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Jonathan Pereira is a developer evangelist',
   siteKeywords:
-    'Jonathan Pereira, GoanIdle, Jonathan Google, Jonathan Goa, Jonathan Postman',
+    'Jonathan Pereira, GoanIdle, Jonathan Google, Jonathan Goa, Jonathan Postman, developer evangelist, developer advocate, program manager, goa, community management',
   siteUrl: 'https://jonathanpereira.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-143014926-2',
