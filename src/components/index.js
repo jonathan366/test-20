@@ -28,7 +28,7 @@ export {
   Hero,
   About,
   Jobs,
-  Featured,
+  //Featured,
   Projects,
   Contact,
   Footer,
