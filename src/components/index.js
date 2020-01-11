@@ -28,8 +28,8 @@ export {
   Hero,
   About,
   Jobs,
-  //Featured,
-  //Projects,
+  Featured,
+  Projects,
   Contact,
   Footer,
 };
