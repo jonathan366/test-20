@@ -12,7 +12,7 @@ skills:
   - Strategy
 ---
 
-Hello! I'm Jonathan, a developer relation program manager based in Bengaluru, India striving to turn developers into heroes. I build, engage and grow developer communities focused on helping developers simplify their daily workflows while helping reach more developers.
+Hello! I'm Jonathan, a developer advocacy program manager based in Bengaluru, India striving to turn developers into heroes. I build, engage and grow developer communities focused on helping developers simplify their daily workflows while helping reach more developers.
 
 Currently at [Automation Anywhere](https://automationanywhere.com/) I'm building the RPA developer ecosystem from ground up.
 
