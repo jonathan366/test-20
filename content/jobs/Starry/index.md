@@ -2,8 +2,8 @@
 date: '2019-10-20'
 title: 'Developer Ecosystem'
 company: 'Automation Anywhere'
-location: 'Bangalore, India'
-range: 'October 2019 - Present'
+location: 'San Jose, USA'
+range: 'October 2019 - June 2020'
 url: 'https://automationanywhere.com/'
 ---
 

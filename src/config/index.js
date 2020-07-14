@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Jonathan Pereira | Developer Community Evangelist',
+  siteTitle: 'Jonathan Pereira | Developer Community Program Manager',
   siteDescription:
-    'Jonathan Pereira is a developer evangelist',
+    'Jonathan Pereira is a developer advocate specialized with SaaS developer tools',
   siteKeywords:
     'Jonathan Pereira, GoanIdle, Jonathan Google, Jonathan Goa, Jonathan Postman, developer evangelist, developer advocate, program manager, goa, community management',
   siteUrl: 'https://jonathanpereira.dev',

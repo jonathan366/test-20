@@ -3,7 +3,7 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Developer Experience 
-  - Developer Evangelism
+  - Developer Relations
   - Community Building
   - Product Marketing
   - Digital Marketing
@@ -12,8 +12,8 @@ skills:
   - Strategy
 ---
 
-Hello! I'm Jonathan, a developer advocacy program manager based in Bengaluru, India striving to turn developers into heroes. I build, engage and grow developer communities focused on helping developers simplify their daily workflows while helping reach more developers.
+Hello! I'm Jonathan, a developer advocacy program manager endeavoring to turn developers into heroes. I build, engage, and grow developer communities to help developers become successful. I focus on the SaaS developer product niche.
 
-Currently at [Automation Anywhere](https://automationanywhere.com/) I'm building the RPA developer ecosystem from ground up.
+Currently, at [Telerik](http://telerik.com/), I'm growing and bolstering the community of 20M+ developers.
 
-Here are a few key areas that I excel at:
+Here are a few key domains that I shine at:
