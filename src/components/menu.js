@@ -80,41 +80,7 @@ const ResumeLink = styled.a`
   width: max-content;
 `;
 
-const Menu = ({ menuOpen, toggleMenu }) => {
-  const handleMenuClick = e => {
-    const target = e.target;
-    const isLink = target.hasAttribute('href');
-    const isNotMenu = target.classList && target.classList[0].includes('StyledContainer');
 
-    if (isLink || isNotMenu) {
-      toggleMenu();
-    }
-  };
-
-  return (
-    <StyledContainer
-      menuOpen={menuOpen}
-      onClick={handleMenuClick}
-      aria-hidden={!menuOpen}
-      tabIndex={menuOpen ? 1 : -1}>
-      <Sidebar>
-        <NavLinks>
-          <NavList>
-            {navLinks &&
-              navLinks.map(({ url, name }, i) => (
-                <NavListItem key={i}>
-                  <NavLink to={url}>{name}</NavLink>
-                </NavListItem>
-              ))}
-          </NavList>
-          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
-            Resume
-          </ResumeLink>
-        </NavLinks>
-      </Sidebar>
-    </StyledContainer>
-  );
-};
 
 Menu.propTypes = {
   menuOpen: PropTypes.bool.isRequired,
