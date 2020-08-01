@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://jonathanpereira.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-143014926-2',
-  //googleVerification: 'ehaLJDqegjHX8oa25889VmMcogvm579Q2_KHY7jIUQI',
+  //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Jonathan Pereira',
   location: 'Bengaluru',
   email: 'hello@jonathanpereira.dev',
