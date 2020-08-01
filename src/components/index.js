@@ -18,7 +18,6 @@ import Contact from './sections/contact';
 export {
   Head,
   Layout,
-  Loader,
   Nav,
   Menu,
   Side,
