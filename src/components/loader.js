@@ -97,4 +97,4 @@ Loader.propTypes = {
   finishLoading: PropTypes.func.isRequired,
 };
 
-
+export default Loader;
